@@ -116,6 +116,4 @@ NotificationCenter.default.publisher(for: UITextField.textDidChangeNotification,
     .store(in: &cancellables)
 ```
 
-## Author
 
-alexander-gaidukov, alexander.gaidukov@gmail.com
